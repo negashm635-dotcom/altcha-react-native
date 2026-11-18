@@ -1,4 +1,4 @@
-# react-native-altcha
+#002# react-native-altcha
 
 React Native widget for [ALTCHA](https://altcha.org) — supports PoW v2 with SHA, PBKDF2, Argon2id, and Scrypt algorithms, Human Interaction Signature (HIS) collection, and server-side verification.
 
